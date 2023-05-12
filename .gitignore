@@ -1,0 +1,6 @@
+*.csv
+*.txt
+.vscode
+__pycahe__
+*pyc
+*.db
